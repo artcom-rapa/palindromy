@@ -7,4 +7,4 @@ def palindrom(text):
         return False
 text = "kajak"
 
-
+print(palindrom(text))
